@@ -1,0 +1,15 @@
+1 - instalar phyton no wsl
+        # apt install python3 python3.13-venv
+2 - criar ambiente virtual
+        $ python -m venv .venv
+4 - ativar o ambiente virtual (para desativar use deactivate)
+        $ source .venv/bin/activate 
+5 - instalar a biblioteca da openai
+        $ pip install -q openai
+6 - criar o arquivo execução.py 
+7 - importar a biblioteca openai
+3 - instalar lmstudio
+4 - escolher LLM que deverá ser utilizada (como o equipamento é fraco pegue com 1B de paramentros para baixo)
+5 - criar o execucao.py
+6 - linkar com a LLM baixada
+7 - constuir o aquivo para leitura da llm (teste)
