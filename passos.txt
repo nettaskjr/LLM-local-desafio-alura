@@ -1,15 +1,24 @@
-1 - instalar phyton no wsl
+1 - instalar phyton
         # apt install python3 python3.13-venv
 2 - criar ambiente virtual
         $ python -m venv .venv
-4 - ativar o ambiente virtual (para desativar use deactivate)
+3 - ativar o ambiente virtual (para desativar use deactivate)
         $ source .venv/bin/activate 
-5 - instalar a biblioteca da openai
+4 - instalar a biblioteca da openai
         $ pip install -q openai
-6 - criar o arquivo execução.py 
-7 - importar a biblioteca openai
-3 - instalar lmstudio
-4 - escolher LLM que deverá ser utilizada (como o equipamento é fraco pegue com 1B de paramentros para baixo)
-5 - criar o execucao.py
-6 - linkar com a LLM baixada
-7 - constuir o aquivo para leitura da llm (teste)
+5 - criar o arquivo execução.py 
+6 - importar a biblioteca openai
+        from openai import OpenAI
+7 - instalar lmstudio
+8 - escolher LLM que deverá ser utilizada
+        gemma-3-1b-it-GGUF
+9 - linkar com a LLM baixada
+10 - Desavio
+
+1) A primeira etapa será carregar um arquivo .txt, um arquivo de texto básico, onde cada linha representará um elemento em uma lista do Python. Precisaremos carregar o arquivo e armazenar cada linha em uma lista.
+
+2) O segundo passo consiste em enviar os itens dessa lista para o modelo que estamos executando localmente no laptop. Isso foi abordado na última aula, quando rodamos localmente com o LM Studio. Caso tenha pesquisado mais e esteja utilizando o Ollama, qualquer um dos dois é válido. O objetivo é enviar essa lista para o modelo e tentar extrair, em um formato JSON, um dicionário ou uma lista de dicionários. Nessa estrutura, teremos os itens: o usuário, que será o nome do usuário presente no arquivo; a resenha original; a tradução dessa resenha para o português; e uma avaliação da resenha, categorizada como positiva, negativa ou neutra. Existem várias maneiras de realizar essa tarefa, e deixaremos a escolha do método para você
+
+3) O terceiro passo é transformar as respostas do modelo em uma lista de dicionários em Python. Por último, criaremos uma função que receberá essa lista de dicionários, como se fosse um arquivo JSON. A função percorrerá a lista e realizará duas ações: contará a quantidade de avaliações positivas, negativas e neutras presentes no arquivo .txt original, agora transformado em uma lista de dicionários; e unirá cada item dessa lista em uma variável do tipo string, utilizando um separador à sua escolha. Ao final, a função retornará tanto a quantidade de avaliações positivas, negativas e neutras quanto uma única variável do tipo string, contendo todos os itens separados pelo separador escolhido.
+
+

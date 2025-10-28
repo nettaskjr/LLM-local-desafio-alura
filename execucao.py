@@ -1,13 +1,17 @@
 from openai import OpenAI
 
-client = OpenAI(api_key="sk-proj-1234567890")
+client = OpenAI(
+    base_url="http://127.0.0.1:1234/v1",
+    api_key="your_api_key_here"
+)
 
 response = client.chat.completions.create(
-    model="gpt-4o-mini",
+    model="gemma-3-1b-it",
     messages=[
-        {"role": "system", "content": "You are a helpful assistant."},
-        {"role": "user", "content": "What is the capital of France?"}
-    ]
+        {"role": "system", "content": "Voce é um assistente de IA bem receptivo."},
+        {"role": "user", "content": "O que é uma IA Generativa?"}
+    ],
+    temperature=1.0
 )
 
 print(response.choices[0].message.content)
