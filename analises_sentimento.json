@@ -1,0 +1,140 @@
+[
+    {
+        "usuario": "Safoan Riyad",
+        "resenha_original": "J'aimais bien ChatGPT. Mais la dernière mise à jour a tout gâché. Elle a tout oublié.",
+        "traducao_portugues": "Eu adorei o ChatGPT. A última atualização apagou tudo. Ela esqueceu tudo.",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Habimana Therese",
+        "resenha_original": "This app is very important but sometimes it gives lies",
+        "traducao_portugues": "Este aplicativo é muito importante, mas às vezes dá mentiras.",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Shahidatun jannat",
+        "resenha_original": "Shahidatun jannat$Wonderful app..i just aastonished.. love this app..",
+        "traducao_portugues": "A aplicação Wonderful é simplesmente maravilhosa! Estou absolutamente maravilhado(a) com ela. Adorei esta aplicação.",
+        "avaliacao": "positiva"
+    },
+    {
+        "usuario": "Rayyan",
+        "resenha_original": "Anytime, it tries to get the app to work. It tells me \"an error has occurred\" can this be fixed?",
+        "traducao_portugues": "Horário, tentei obter o aplicativo para funcionar. Diz que \"um erro ocorreu\" pode ser corrigido?",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Nkanyi",
+        "resenha_original": "Se queda dando vueltas.",
+        "traducao_portugues": "Não abre",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Jayanth Pudducheri",
+        "resenha_original": "Gerçekten harika, günlük ya?am için çok ihtiyaç duyulan bir uygulama",
+        "traducao_portugues": "Realmente incrível, uma aplicação essencial para as necessidades diárias.",
+        "avaliacao": "positiva"
+    },
+    {
+        "usuario": "Mohamedi Mustapha",
+        "resenha_original": "It's incredible help me to my university education Carrer",
+        "traducao_portugues": "É incrível, ajudando-me na minha educação universitária em Carrer.",
+        "avaliacao": "positiva"
+    },
+    {
+        "usuario": "James Williams",
+        "resenha_original": "this ai app has some good features but it is lacking in understanding.",
+        "traducao_portugues": "esses aplicativos têm algumas boas funcionalidades, mas carecem de compreensão.",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Alexis",
+        "resenha_original": "Cool, just wish there wasn't a limit for the free trial to be honest",
+        "traducao_portugues": "Legal, só queria que não houvesse um limite para o período de teste gratuito, sendo honesto.",
+        "avaliacao": "positiva"
+    },
+    {
+        "usuario": "Mark Feldman",
+        "resenha_original": "L'IA est géniale, mais elle s'arrête sans arrêt, me dit « Une erreur s'est produite » et m'empêche totalement de l'utiliser. C'est vraiment dommage.",
+        "traducao_portugues": "A IA é genial, mas ela para sem parar, dizendo \"Uma erro s'est ocorrido\" e me impede totalmente de usá-la. É realmente uma pena.",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Usuário não especificado",
+        "resenha_original": "Somshuvra Saha$Database too old to use. No database opdate after that. It can give information regarding recent events. Gemini is best which can give real time information.",
+        "traducao_portugues": "Problemas com o banco de dados, ele está muito antigo e não pode mais ser usado. Ocorre que ele fornece informações sobre eventos recentes. O Gemini é a melhor opção, pois oferece informações em tempo real.",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Ahmad Raza",
+        "resenha_original": "very good but it would be better if the normal version responded fast",
+        "traducao_portugues": "Muito bom, mas seria melhor se a versão padrão respondesse mais rápido.",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Andrew McKay",
+        "resenha_original": "Voice frequently disconnects, and finding specific chats would be easier if we could tag them and filter by tag or custom gpt.",
+        "traducao_portugues": "A voz se desconecta frequentemente e seria mais fácil encontrar conversas específicas se pudéssemos marcá-las e filtrar por etiqueta ou usando o GPT personalizado.",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Kavya",
+        "resenha_original": "je?li jest za darwo to daj?",
+        "traducao_portugues": "O que você está pedindo é muito caro?",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Vaishnavi Tandon",
+        "resenha_original": "To use it a lot of improvements are still needed, especially for Indian",
+        "traducao_portugues": "Precisa de muitas melhorias, especialmente para indianos.",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Usuário",
+        "resenha_original": "App is cool but developer should add more features on this app, like-generating photos and videos",
+        "traducao_portugues": "O aplicativo é legal, mas o desenvolvedor deveria adicionar mais recursos a este aplicativo, como gerar fotos e vídeos.",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Yavuz YurtbeÄ",
+        "resenha_original": "Does not work on my tablet, it is stuck at loading screen",
+        "traducao_portugues": "Não funciona no meu tablet, está preso em uma tela de carregamento.",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Eyob Getachew",
+        "resenha_original": "Aplica?ia e destul de bun?, dar dac? exist? acces la fotografii ar fi grozav, cum ar fi întrebarea cu inteligen?a artificial?, îmi place mai mult op?iunea asta ?i cred c? e ideea fiec?ruia.",
+        "traducao_portugues": "Oplica?ia é muito boa?, existe acesso às fotos, é difícil? A opção desta é mais interessante. ",
+        "avaliacao": "positiva"
+    },
+    {
+        "usuario": "Shrushi Padia",
+        "resenha_original": "I am unable to understand the symbols of mathematics as they are not getting converted. For example the multiplication sign i.e. Ã is shown as \times_6 and same for all the symbols. I can't understand the sum as it gets hard to read.",
+        "traducao_portugues": "Eu não consigo entender os símbolos da matemática, pois eles não estão sendo convertidos. Por exemplo, o sinal de multiplicação, i.e. Ã, está mostrado como \times_6 e o mesmo para todos os símbolos. Não consigo entender a soma, pois ela fica difícil de ler.",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Karli du Plessis",
+        "resenha_original": "Lo adoro, lo uso per cose molto dialogate, ma ora con il limite di messaggi, a mio parere è un po' ingiusto, nonostante le intenzioni. Non voglio usare la versione premium perché la versione gratuita ha sempre funzionato perfettamente per me. Non c'è un modo alternativo per gestirlo, oltre a imporre limiti praticamente a tutto?Isn't there an alternative way to manage it other than putting limits on literally everything?",
+        "traducao_portugues": "Eu adoro, uso para coisas muito conversacionais, mas agora com o limite de mensagens, na minha opinião é um pouco injusto, apesar das intenções. Não quero usar a versão premium porque a versão gratuita sempre funcionou perfeitamente para mim. Não há uma maneira alternativa de gerenciá-la, além de impor limites praticamente em tudo?Não está lá alguma forma alternativa de gerenciar isso, além de colocar limites literalmente em tudo?",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "yones",
+        "resenha_original": "I like it but it always say \"I cannot assist with that\" for no reason, it just basically say the same word",
+        "traducao_portugues": "Eu gosto disso, mas sempre diz \"Não posso ajudar com isso\", por não ter razão, simplesmente diz a mesma palavra.",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Ibrahim Ghani",
+        "resenha_original": "Middling experience. The web version feels nicer. This app feels... Obese.",
+        "traducao_portugues": "Experiência média. A versão web parece mais agradável. Este aplicativo se sente... Obeso.",
+        "avaliacao": "negativa"
+    },
+    {
+        "usuario": "Amisha Besra",
+        "resenha_original": "något visar ett oöverträffat svar och en del information matchar inte det givna ämnet",
+        "traducao_portugues": "algo mostra uma resposta inigualável e parte da informação não corresponde ao tema dado.",
+        "avaliacao": "negativa"
+    }
+]
