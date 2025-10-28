@@ -113,5 +113,5 @@ if lista_analisada:
     print(f"Neutras:   {contagem_avaliacoes['neutras']}")
 
     # Opcional: Imprimir a string consolidada (pode ser muito longa)
-    # print("\n--- String Consolidada ---")
-    # print(string_geral)
+    print("\n--- String Consolidada ---")
+    print(string_geral)
